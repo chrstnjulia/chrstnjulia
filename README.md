@@ -1,7 +1,6 @@
 
 ### Hewo (ﾉ◕ヮ◕)ﾉ*:･ﾟ✧  I am CJ
 # 💫 About Me:
-# 💫 About Me:
 🔭 I’m currently working on a Cyber Threat Intelligence Tool<br><br>🌱 I’m currently an IT student and a Cybersecurity Intern<br><br>📸 My hobby beyond tech pursuits is photography<br><br>👩‍🚀 Fun fact: I dreamt of being an astronaut
 
 
